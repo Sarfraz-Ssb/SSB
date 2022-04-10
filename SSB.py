@@ -10,5 +10,5 @@ if bit == '64bit':
     from zsb import bnsbuy
     bnsbuy()
 elif bit == '32bit':
-    from zsb import bnsbuy
+    from zsb32 import bnsbuy
     bnsbuy()
