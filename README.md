@@ -62,7 +62,5 @@ $ python SSB.py
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Sarfraz-Ssb) <br>
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/msb.Father.of.chutya) <br>
-[![](https://img.shields.io/badge/Facebook-Group-black?logo=FB Group&logoColor=red&labelColor=black)](https://facebook.com/groups/3017062245271082/) <br>
-
 
 <h2> THANKS FOR VISIT <h2\>
