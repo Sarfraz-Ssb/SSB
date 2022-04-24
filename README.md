@@ -1,13 +1,4 @@
-<img src="https://github.com/Sarfraz-Ssb/Sarfraz-Ssb/blob/main/IMAGE/Sarfraz-Ssb.gif" width="120" height="120" align="left">
-<center>
-  
-  
- 
-   ##  MY SOCIAL MEDIA : <br>
-<a href="https://facebook.com/groups/3017062245271082/" target="_blank"><img src="https://github.com/Sarfraz-Ssb/Sarfraz-Ssb/blob/main/IMAGE/Facebook.group.png" alt="alt text" width="25" height="25"></a> m/Sarfraz-Ssb/Sarfraz-Ssb/blob/main/IMAGE/Facebook.png" alt="alt text" width="25" height="25"></a>
-<a href="https://www.facebook.com/msb.Father.of.chutya" target="_blank"><img src="https://github.com/Sarfraz-Ssb/SSB/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> " alt="alt text" width="25" height="25"></a> 
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
-  
+
 ____Programming And Gaming____
 
 CONTACT WITH <a href="https://github.com/Sarfraz-Ssb"><b>Sarfraz.SSB </a> </br><br>
