@@ -1,3 +1,4 @@
+os.system('git pull')
 import os, platform
 try:
     import requests
