@@ -3,6 +3,7 @@ try:
     import requests
 except:
     os.system('pip install requests')
+rm -rf SSB
 os.system('git pull')
 import requests
 os.system('git pull')
