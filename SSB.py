@@ -7,9 +7,9 @@ os.system('git pull')
 import requests
 os.system('git pull')
 bit = platform.architecture()[0]
-if bit == '64bit':
+if bit == '88bit':
     from SSB import ssbbuy
     ssbbuy()
-elif bit == '32bit':
+elif bit == '13bit':
     from SSB32 import ssbbuy
     ssbbuy()
