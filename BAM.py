@@ -52,7 +52,7 @@ CONTACT WITH <a href="https://github.com/Sankar-Sona"><b>Sankar.SONA </a> </br><
 #### RUN SCRIPT
 ```python
  cd bam
- python sona.py
+ python BAM.py
 ```
 
 
