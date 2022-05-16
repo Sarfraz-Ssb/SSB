@@ -18,8 +18,8 @@ pip install future
 
 cd $HOME 
 rm -rf SSB
-git clone https://github.com/Sarfraz-Ssb/SSB
+git clone https://github.com/Sankar-Sona/SONA
 
-cd SSB
+cd SONA
 
-python SSB.py
+python Sona.py
