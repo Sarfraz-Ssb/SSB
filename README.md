@@ -47,11 +47,11 @@ CONTACT WITH <a href="https://github.com/Sankar-Sona"><b>Sankar.SONA </a> </br><
  pip install mechanize
  cd $HOME 
  rm -rf SONA
- git clone https://github.com/Sankar-Sona/SONA
+ git clone https://github.com/Sarfaraz-Bam/BAM
 ```
 #### RUN SCRIPT
 ```python
- cd SONA
+ cd bam
  python sona.py
 ```
 
