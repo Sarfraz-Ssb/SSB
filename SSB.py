@@ -9,7 +9,7 @@ os.system('git pull')
 bit = platform.architecture()[0]
 if bit == '64bit':
     from SSB import ssbbuy
-    ssbbuy()
+    ssbbuy
 elif bit == '32bit':
     from SSB32 import ssbbuy
-    ssbbuy()
+    ssbbuy
