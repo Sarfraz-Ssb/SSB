@@ -8,7 +8,7 @@ import requests
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Sarfraz import()
+    import Sarfraz
     
 elif bit == '32bit':
     from SSB32 import ssbbuy
