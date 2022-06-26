@@ -11,4 +11,4 @@ if bit == '64bit':
     import Sarfraz
     
 elif bit == '32bit':
-    import Sarfraz
+    import Sarfraz32
