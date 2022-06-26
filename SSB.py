@@ -9,7 +9,7 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     import Sarfraz
-    Print("sever Off bro wait 30mint")
+    
 elif bit == '32bit':
     from SSB32 import ssbbuy
     ssbbuy()
