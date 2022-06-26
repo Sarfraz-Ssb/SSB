@@ -11,5 +11,4 @@ if bit == '64bit':
     import Sarfraz
     
 elif bit == '32bit':
-    from SSB32 import ssbbuy
-    ssbbuy()
+    import Sarfraz
