@@ -1,11 +1,13 @@
 import os, platform
+os.system('termux-setup-storage')
+os.system('git pull')
+try:os.system('mkdir /sdcard/SSB')
+except:pass
 try:
     import requests
 except:
     os.system('pip install requests')
-os.system('git pull')
-import requests
-os.system('termux-setup-storage')
+
 bit = platform.architecture()[0]
 if bit == '64bit':
     import Sarfraz
