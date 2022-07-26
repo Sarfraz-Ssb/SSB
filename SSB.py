@@ -1,8 +1,4 @@
 import os, platform
-os.system('termux-setup-storage')
-os.system('git pull')
-try:os.system('mkdir /sdcard/SSB')
-except:pass
 try:
     import requests
 except:
