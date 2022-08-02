@@ -6,7 +6,7 @@ except:
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import Sarfraz
+    import Random
     
 elif bit == '32bit':
     import Sarfraz32
