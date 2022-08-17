@@ -8,7 +8,7 @@ import requests
 os.system('git pull')
 bit = platform.architecture()[0]
 if bit == '64bit':
-    import sarfraz
+    import Sarfraz
 
 elif bit == '32bit':
     import Sarfraz32
