@@ -7,24 +7,24 @@ ____Welcome____
 
 <br>
   <a href="https://github.com/Sarfraz-Ssb/termux-style/stargazers/">
-  <a href="https://github.com/Sarfraz-Ssb/SSB-">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Sarfraz-Ssb/SSB-.svg"/>
+  <a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Sarfraz-Ssb/SSB.svg"/>
   </a>
 <br>
-  <a href="https://github.com/Sarfraz-Ssb/SSB-">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Sarfraz-Ssb/SSB-.svg"/>
+  <a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Sarfraz-Ssb/SSB.svg"/>
   </a>
   <a href="https://github.com/Sarfraz-Ssb/SSB">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Sarfraz-Ssb/SSB-.svg"/>
+    <img alt="Starts" src="https://img.shields.io/github/stars/Sarfraz-Ssb/SSB.svg"/>
   </a>
 <br>
-<a href="https://github.com/Sarfraz-Ssb/SSB-">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Sarfraz-Ssb/SSB-.svg"/>
+<a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Sarfraz-Ssb/SSB.svg"/>
   </a>
 <br>
-<a href="https://github.com/Sarfraz-Ssb/SSB-">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Sarfraz-Ssb/SSB-.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Sarfraz-Ssb/SSB-.svg"/>
+<a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Sarfraz-Ssb/SSB.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Sarfraz-Ssb/SSB.svg"/>
   </a>
 </div>
 
@@ -44,12 +44,12 @@ ____Welcome____
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf SSB-
- git clone https://github.com/Sarfraz-Ssb/SSB-
+ rm -rf SSB
+ git clone https://github.com/Sarfraz-Ssb/SSB
 ```
 #### RUN SCRIPT
 ```python
- cd SSB-
+ cd SSB
  python SSB.py
 ```
 
