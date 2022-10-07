@@ -41,7 +41,7 @@ def SSB():
         import SSB
     else:
         import SSB
-    if bit == '64bitt':
+    if bit == '644bit':
         os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/Sarfraz.cpython-310.so?raw=true -o Sarfraz.so') 
         import Sarfraz
     else:
