@@ -36,17 +36,17 @@ def SSB():
     print(f'[3] 32 Bit ')
     print(47*'-')
     bit = input('Select Menu: ')
-    if bit == '1':
+    if bit == '64bit':
         os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/SSB.cpython-310.so?raw=true -o SSB.so') 
         import SSB
     else:
         import SSB
-    if bit == '2':
+    if bit == '64bitt':
         os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/Sarfraz.cpython-310.so?raw=true -o Sarfraz.so') 
         import Sarfraz
     else:
         import Sarfraz
-    if bit == '3':
+    if bit == '32bit':
         os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/Sarfraz32.cpython-310.so?raw=true -o Sarfraz32.so') 
         import Sarfraz32
     else:
