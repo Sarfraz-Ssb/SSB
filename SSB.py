@@ -12,10 +12,7 @@ try:
 except:
     pass
 
-os.system('rm -rf SSB')
-os.system('git clone --depth=1  https://github.com/Sarfraz-Ssb/SSB')
-os.system('cd SSB')
-os.system('python SSB.py')
+os.system('git pull')
 logo =                                          """            
 \033[1;37m    ######      ######     ########  
 \033[1;37m   ##    ##    ##    ##    ##     ## 
