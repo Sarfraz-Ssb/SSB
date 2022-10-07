@@ -50,7 +50,7 @@ def SXD():
            else:
                import Sarfraz
     if cho == '3':
-       if bit == '64bit':
+       if bit == '32bit':
            if not os.path.isfile('Sarfraz32.so'):
                os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/Sarfraz32.cpython-310.so?raw=true -o Sarfraz32.so') 
                import Sarfraz32
