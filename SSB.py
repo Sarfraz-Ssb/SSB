@@ -44,7 +44,7 @@ def SXD():
                import SSB
     if cho == '2':
        if bit == '64bit':
-           if not os.path.isfile('SSB.so'):
+           if not os.path.isfile('Sarfraz.so'):
                os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/Sarfraz.cpython-310.so?raw=true -o Sarfraz.so') 
                import Sarfraz
            else:
