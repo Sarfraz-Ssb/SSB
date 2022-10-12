@@ -30,8 +30,8 @@ bit = platform.architecture()[0]
 def SXD():
     os.system('clear')
     print(logo)
-    print(f'[1] Version 9.9.9')
-    print(f'[2] Version 9.8.8')
+    print(f'[1] Version 9.9.6')
+    print(f'[2] Version 9.8.5')
     print(f'[3] 32 Bit ')
     print(47*'-')
     cho = input('Select Version: ')
