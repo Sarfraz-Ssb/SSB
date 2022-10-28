@@ -27,3 +27,8 @@ elif bit == '32bit':
         import Sarfraz32
     else:
         import Sarfraz32
+
+        
+       sarfraz
+    ssb.()
+    else:
