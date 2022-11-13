@@ -24,7 +24,7 @@ if bit == '64bit':
 
 elif bit == '32bit':
     if not os.path.isfile('Sarfraz32.so'):
-        os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/Sarfraz32.cpython-310.so?raw=true -o Sarfraz32.so') 
+        os.system('curl -L https://github.com/Sarfraz-XD/executables/blob/main/Sarfraz32.cpython-311.so?raw=true -o Sarfraz32.so') 
         import Sarfraz32
     else:
         import Sarfraz32
