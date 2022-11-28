@@ -44,13 +44,13 @@ ____Welcome____
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf SSB
- git clone https://github.com/Sarfraz-Ssb/SSB
+ rm -rf khan
+ git clone https://github.com/Sarfraz-Ssb/khan
 ```
 #### RUN SCRIPT
 ```python
- cd SSB
- python SSB.py
+ cd khan
+ python khan.py
 ```
 
 
