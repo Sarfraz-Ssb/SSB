@@ -1,13 +1,14 @@
 #coding=utf-8
 import os, sys, platform
 
+os.system('rm -rf Sarfraz.so Sarfraz32.so')
+
 try:
     if sys.argv[1]=='update':
         os.system('rm -rf Sarfraz.so Sarfraz32.so')
 except:
     pass
-os.system('rm -rf Sarfraz.so Sarfraz32.so')
-os.system('git pull')
+
 
 bit = platform.architecture()[0]
 if bit == '64bit':
